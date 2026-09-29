@@ -1,0 +1,14 @@
+streamlit==1.32.0
+pandas==2.1.4
+numpy==1.26.2
+pandasai==2.4.1
+groq
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+openpyxl
+plotly
+xgboost
+lightgbm
+catboost
